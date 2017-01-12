@@ -4,7 +4,8 @@ public:
         int t_count[128] = {0};
         int s_count[128] = {0};
         int findAll = 0;
-        
+       
+        //TODO INI_MAX
         int min_size = 2147483647;
         int min_start = 0, min_end = 0;
         
